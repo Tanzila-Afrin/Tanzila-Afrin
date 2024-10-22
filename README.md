@@ -2,10 +2,6 @@
 <h3 align="center">||Data Science Explorer | CSE Student Specializing in Data Science, Analytics, and Machine Learning||</h3>
 
 
-
-(https://img.freepik.com/premium-vector/vector-illustration-programmer-flat-design-style_844724-3899.jpg)
-
-
 - 🔭 I’m currently Studying at **East West University**
 
 - 🌱 I’m currently learning **Python, SQL, HTML, C++**
