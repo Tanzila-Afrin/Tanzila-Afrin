@@ -1,5 +1,5 @@
 <h1 align="center">HELLO 👋, I'm Tanzila Afrin</h1>
-<h3 align="center">Data Science Explorer | CSE Student Specializing in Data Science, Analytics, and Machine Learning</h3>
+<h3 align="center">||Data Science Explorer | CSE Student Specializing in Data Science, Analytics, and Machine Learning||</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanzila-afrin&label=Profile%20views&color=0e75b6&style=flat" alt="tanzila-afrin" /> </p>
 
