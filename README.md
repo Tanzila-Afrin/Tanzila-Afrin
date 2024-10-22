@@ -1,7 +1,9 @@
 <h1 align="center">HELLO 👋, I'm Tanzila Afrin</h1>
 <h3 align="center">||Data Science Explorer | CSE Student Specializing in Data Science, Analytics, and Machine Learning||</h3>
 
-
+<div align="center">
+  <img src="https://img.freepik.com/premium-vector/vector-illustration-programmer-flat-design-style_844724-3899.jpg" alt="Banner" width="600" />
+</div>
 - 🔭 I’m currently Studying at **East West University**
 
 - 🌱 I’m currently learning **Python, SQL, HTML, C++**
