@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, SQL, HTML, C++**
 
-- 📫 How to reach me **afrintanzila18@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
