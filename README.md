@@ -1,6 +1,6 @@
 <h1 align="center">HELLO 👋, I'm Tanzila Afrin</h1>
 <h3 align="center">||Data Science Explorer | Innovative Data-Driven Problem Solver||</h3>
-
+<br>
 
 <div align="center">
   <img src="https://img.freepik.com/premium-vector/vector-illustration-programmer-flat-design-style_844724-3899.jpg" alt="Banner" width="600" />
