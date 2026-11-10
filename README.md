@@ -145,6 +145,7 @@ Developed a data-efficient medicinal plant classification framework combining Bo
 <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=tanzila-afrin&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
+
 ### 🤝 Let's Connect!
 
 I'm always interested in connecting with fellow researchers, developers, and AI enthusiasts.
