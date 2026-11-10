@@ -154,9 +154,6 @@ I'm always interested in connecting with fellow researchers, developers, and AI 
   <a href="https://www.linkedin.com/in/tanzila-afrin-466150261">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.kaggle.com/tanzilaafrin">
-    <img src="https://img.shields.io/badge/Kaggle-Explore-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
   <a href="https://github.com/Tanzila-Afrin">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
   </a>
