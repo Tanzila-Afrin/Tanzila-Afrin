@@ -138,14 +138,13 @@ Developed a data-efficient medicinal plant classification framework combining Bo
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tanzila-afrin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzila-afrin&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanzila-afrin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzila-afrin&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tanzila-afrin&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=tanzila-afrin&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
-
 ### 🤝 Let's Connect!
 
 I'm always interested in connecting with fellow researchers, developers, and AI enthusiasts.
