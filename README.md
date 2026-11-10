@@ -14,7 +14,6 @@ I'm a **Computer Science and Engineering graduate from East West University**, p
 
 My research interests revolve around developing robust and intelligent learning systems, particularly through self-supervised representation learning, Vision Transformers, and Explainable AI.
 
-- 🎓 B.Sc. in Computer Science & Engineering | CGPA: 3.56/4.00
 - 🔬 Research interests: **Self-Supervised Learning, Computer Vision & Explainable AI**
 - 🧠 Exploring **Vision Transformers, Deep Learning & Representation Learning**
 - 📊 Experienced in image classification, research experimentation, and model evaluation
